@@ -57,7 +57,6 @@ main::after {
 }
 
 .conteudo .logo {
-  background-color: aquamarine;
   background-image: url("../images/one-piece-logo.png");
   background-size: cover;
   width: 230px;
